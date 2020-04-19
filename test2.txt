@@ -1,7 +1,4 @@
 test 4 for merge2
 
 test 6 for merge3
-test 7 
-test 8
-
 
